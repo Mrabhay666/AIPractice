@@ -1,0 +1,10 @@
+streamlit
+pandas
+ydata-profiling
+langchain
+langchain-openai
+plotly
+python-dotenv
+langchain-groq
+langchain-classic
+langchain-core

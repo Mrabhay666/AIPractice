@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.streamlit/
+config.yaml
+*.csv
+*.xlsx
